@@ -1,0 +1,8 @@
+mkdir -p : 
+Creating folders inside folders in one single command is amazingly efficient.
+
+ls -a :
+When i first experiment with CLI i was lost almost all the time until i  start to lear how to use this command, then i knew exactly the folder's name i wanted it to be .
+
+touch: 
+Creating a file rather .html .md .txt or .css is easier and faster than in the GUI.
